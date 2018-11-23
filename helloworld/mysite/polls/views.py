@@ -8,7 +8,7 @@ from.models import Question
 def index(request):
     latestQuestion = Question.objects.order_by('-pub_date')[:5]
     context = {'latestQuestion':latestQuestion}
-    return render(request,'/polls/index.html',context)
+    return render(request,'../polls/index.html',context)
 
 def detail(request, questionId):
     return HttpResponse("it is the %s Question detail" %questionId)
