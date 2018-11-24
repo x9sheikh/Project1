@@ -1,21 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
+{% block main_content %}
+
     {% if latestQuestion %}
     <ul>
         {% for question in latestQuestion%}
             <li>
-                <a href="/polls/{{questionId}}">{{question.question_text}}</a>
+                <a href="/polls/{{question.id}}">{{question.question_text}}</a>
             </li>
         {% endfor %}
     </ul>
     {% else %}
         <p>You don't have any</p>
     {% endif%}
+{% endblock %}
 
 </body>
 </html>

@@ -11,7 +11,8 @@ def index(request):
     return render(request,'index.html',context)
 
 def detail(request, questionId):
-    return HttpResponse("it is the %s Question detail" %questionId)
+    question = Question.objects.get(pk = questionId)
+    return render(request,'detail.html',{'question': question})
 
 def result(request, questionId):
     return HttpResponse("it is the %s Question results" %questionId)
