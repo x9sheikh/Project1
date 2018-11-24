@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f1d185b-0d30-4643-8084-0214b66dedcf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/helloworld/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/helloworld/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/helloworld/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/helloworld/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/mysite/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/mysite/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/mysite/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/mysite/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/template/polls/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/mysite/polls/views.py" beforeDir="false" />
-    </list>
+    <list default="true" id="8f1d185b-0d30-4643-8084-0214b66dedcf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="716" />
     <option name="y" value="25" />
     <option name="width" value="650" />
@@ -131,7 +106,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
