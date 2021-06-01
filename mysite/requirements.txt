@@ -49,4 +49,4 @@ six==1.11.0
 subprocess32==3.2.7
 trollius==2.0.1
 ttystatus==0.38
-urllib3==1.22
+urllib3==1.26.5
